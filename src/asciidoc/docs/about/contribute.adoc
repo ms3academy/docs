@@ -1,8 +1,8 @@
-= Contributing to the Koji developer site
+= Contributing to the TechInTen site
 :page-slug: contribute-koji-developers
 :page-description: Guide for contributing to the Koji for Developers site.
 
-The Koji for Developers documentation site is built and maintained by developers just like you.
+The TechInTen documentation site is built and maintained by developers just like you.
 You too can help by contributing to the site *structure*, writing new *articles*, or *suggesting edits* to existing documentation.
 
 Anyone can open an issue about documentation, or contribute a change with a pull request to the `madewithkoji/docs` https://github.com/madewithkoji/docs[GitHub repository].
@@ -18,7 +18,7 @@ Here's a quick example:
 
 [source, asciidoc]
 ----
-= Koji for Developers
+= TechInTen for Developers
 
 Create your own templates for https://withkoji.com[Koji].
 
