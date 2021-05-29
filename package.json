@@ -1,7 +1,7 @@
 {
   "name": "koji-docs",
   "private": true,
-  "description": "Koji documentation",
+  "description": "TechInTen documentation",
   "version": "0.1.0",
   "scripts": {
     "build": "gatsby build",
